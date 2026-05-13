@@ -14,7 +14,7 @@ To explore student performance data and identify patterns in score distribution,
 
 ---
 
-## 🛠️ Tools & Technologies
+##  Tools & Technologies
 
 - Python
 - Jupyter Notebook
